@@ -23,14 +23,13 @@ public:
         set<int> a;
         for(auto edge: mp[i]) {
             a.insert(edge);
-            for(auto anc: ancestors(edge))
-                a.insert(anc);
+            for(auto ancestor: ancestors(edge))
+                a.insert(ancestor);
         }
         
         vector<int> ans;
-        for(auto anc: a) {
-            ans.push_back(anc);
-        }
+        for(auto ancestor: a)
+            ans.push_back(ancestor);
     
         return dp[i] = ans;
     }    
