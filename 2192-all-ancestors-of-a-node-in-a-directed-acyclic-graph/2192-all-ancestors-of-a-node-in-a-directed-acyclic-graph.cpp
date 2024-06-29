@@ -20,17 +20,15 @@ public:
         if(computed[i]) return dp[i];
         computed[i] = true;
         
-        set<int> a;
+        vector<int> ans;
         for(auto edge: mp[i]) {
-            a.insert(edge);
+            ans.push_back(edge);
             for(auto ancestor: ancestors(edge))
-                a.insert(ancestor);
+                ans.push_back(ancestor);
         }
         
-        vector<int> ans;
-        for(auto ancestor: a)
-            ans.push_back(ancestor);
-    
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
         return dp[i] = ans;
     }    
 };
