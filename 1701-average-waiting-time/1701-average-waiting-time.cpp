@@ -11,6 +11,6 @@ public:
             time += it->at(1);
         }
         
-        return (double)totalWaitTime/n;
+        return static_cast<double>(totalWaitTime)/n;
     }
 };
