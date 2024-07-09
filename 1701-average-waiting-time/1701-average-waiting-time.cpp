@@ -1,7 +1,7 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        double totalWaitTime = 0.0;
+        long totalWaitTime = 0;
         int n = 0;
         int time = 0;
         for(auto it=customers.begin(); it!=customers.end(); ++it) {
@@ -11,6 +11,6 @@ public:
             time += it->at(1);
         }
         
-        return totalWaitTime/n;
+        return (double)totalWaitTime/n;
     }
 };
