@@ -22,11 +22,11 @@ public:
         return ans;
     }
     
-    int largestVal(vector<int> v) {
+    constexpr int largestVal(vector<int>& v) {
         return *std::max_element(v.begin(), v.end());
     }
     
-    int smallestVal(vector<int> v) {
+    constexpr int smallestVal(vector<int>& v) {
         return *std::min_element(v.begin(), v.end());
     }
 };
