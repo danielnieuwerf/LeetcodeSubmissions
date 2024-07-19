@@ -22,13 +22,11 @@ public:
         return ans;
     }
     
-    int largestVal(vector<int> vec) {
-        sort(vec.begin(), vec.end());
-        return vec.back();
+    int largestVal(vector<int> v) {
+        return *std::max_element(v.begin(), v.end());
     }
     
-    int smallestVal(vector<int> vec) {
-        sort(vec.begin(), vec.end());
-        return vec.at(0);
+    int smallestVal(vector<int> v) {
+        return *std::min_element(v.begin(), v.end());
     }
 };
