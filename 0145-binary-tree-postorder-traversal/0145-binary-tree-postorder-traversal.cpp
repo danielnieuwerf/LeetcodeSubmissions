@@ -10,20 +10,17 @@
  * };
  */
 class Solution {
-    vector<int> ans;
+    vector<int> _ans;
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         rec(root);
-        return ans;
+        return _ans;
     }
     
     void rec(TreeNode* root) {
         if(!root) return;
-        if(root->left)
-            rec(root->left);  
-        if(root->right)
-            rec(root->right);
-        
-        ans.push_back(root->val);
+        rec(root->left);  
+        rec(root->right);
+        _ans.push_back(root->val);
     }
 };
