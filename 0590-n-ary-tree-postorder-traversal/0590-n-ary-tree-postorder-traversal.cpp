@@ -28,7 +28,7 @@ public:
     
     void rec(Node* root) {
         if(!root) return;
-        for(auto node: root->children)
+        for(auto& node: root->children)
             rec(node);
         _ans.push_back(root->val);
     }
