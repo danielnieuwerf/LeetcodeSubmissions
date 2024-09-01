@@ -10,19 +10,22 @@ public:
         }
 
         int ans = 1;
-        auto indexes = getIndexesOfFirstValueAfterStart(-1);
-        while(find(indexes.begin(), indexes.end(), -1) == indexes.end()) {
-            indexes = getIndexesOfFirstValueAfterStart(*max_element(indexes.begin(), indexes.end()));            
+        auto index = getIndexAfterStart(-1);
+        while(index != -1) {
+            index = getIndexAfterStart(index);      
             ++ans;
         }
         
         return ans;
     }
     
-    vector<int> getIndexesOfFirstValueAfterStart(int start) {
-        vector<int> ans;
+    int getIndexAfterStart(int start) {
+        int ans = 0;
         for(int i = 1; i<=_k; ++i) {
-            ans.push_back(indexOfValAfterStart(start, i));
+            if(auto val = indexOfValAfterStart(start, i)) {
+                if(val == -1) return -1;
+                ans = max(ans, val);
+            }
         }
         return ans;
     }
