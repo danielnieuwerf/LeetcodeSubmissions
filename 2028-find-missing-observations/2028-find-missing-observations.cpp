@@ -13,30 +13,30 @@ public:
     }
     
     vector<int> generatePermutation(int total, int n) {
-        vector<int> ans;
-        ans.reserve(n);
+        vector<int> ans = vector<int>(n, 1);
+        int i = 0;
         while(n) {
             if(total >= n+5) {
-                ans.push_back(6);
+                ans[i] = 6;
                 total -= 6;
             } else if(total >= n+4) {
-                ans.push_back(5);
+                ans[i] = 5;
                 total -= 5;
             } else if(total >= n+3) {
-                ans.push_back(4);
+                ans[i] = 4;
                 total -= 4;
             } else if(total >= n+2) {
-                ans.push_back(3);
+                ans[i] = 3;
                 total -= 3;
             } else if(total >= n+1) {
-                ans.push_back(2);
+                ans[i] = 2;
                 total -= 2;
             } else if(total >= n) {
-                ans.push_back(1);
-                total -= 1;
+                break;
             }
             
             --n;
+            ++i;
         }
         return ans;
     }
