@@ -31,11 +31,8 @@ public:
         for(int i = 0; i<n; ++i) {
             if(next == 0) {
                 ans.push_back(curr);
-                next = len;
-                if(extra > 0) {
-                    --extra;
-                    ++next;
-                }
+                next = extra > 0 ? len + 1: len;
+                --extra;
             }
             --next;
             auto temp = curr->next;
