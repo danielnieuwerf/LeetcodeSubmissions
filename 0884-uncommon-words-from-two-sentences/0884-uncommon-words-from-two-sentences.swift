@@ -9,18 +9,7 @@ class Solution {
         a1.forEach { counts1[$0, default: 0] += 1 }
         a2.forEach { counts2[$0, default: 0] += 1 }
         
-        var ans: [String] = []
-        a1.forEach {
-            if counts1[$0] == 1, counts2[$0] == nil {
-                ans.append($0)
-            }
-        }
-        a2.forEach {
-            if counts2[$0] == 1, counts1[$0] == nil {
-                ans.append($0)
-            }
-        }
-        
-        return ans
+        return a1.filter {(counts1[$0] == 1 && counts2[$0] == nil)} +
+                a2.filter {(counts2[$0] == 1 && counts1[$0] == nil)}        
     }
 }
