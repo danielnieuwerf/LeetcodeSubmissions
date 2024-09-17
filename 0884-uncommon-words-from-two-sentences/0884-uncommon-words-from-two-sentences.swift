@@ -10,15 +10,14 @@ class Solution {
         a2.forEach { counts2[$0, default: 0] += 1 }
         
         var ans: [String] = []
-        // must appear once in a1 and 0 in a2 or 1 in a2 and 0 in a1
-        for a in a1 {
-            if counts1[a] == 1, counts2[a] == nil {
-                ans.append(a)
+        a1.forEach {
+            if counts1[$0] == 1, counts2[$0] == nil {
+                ans.append($0)
             }
         }
-        for a in a2 {
-            if counts2[a] == 1, counts1[a] == nil {
-                ans.append(a)
+        a2.forEach {
+            if counts2[$0] == 1, counts1[$0] == nil {
+                ans.append($0)
             }
         }
         
