@@ -6,7 +6,7 @@ class Solution {
         
         var ans = code
         let n = code.count
-        for (index, element) in code.enumerated() {
+        for index in 0..<n {
             if k > 0 {
                 var total = 0
                 for i in 0..<k {
