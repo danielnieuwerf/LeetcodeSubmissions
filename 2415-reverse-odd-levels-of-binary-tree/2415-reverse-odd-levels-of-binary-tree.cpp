@@ -31,8 +31,9 @@ public:
             for(auto node: nodes)
                 values.push_back(node->val);
             assert(values.size() == pow(2, level));
-            for(int i = 0; i<pow(2, level); ++i)
-                nodes[i]->val = values[pow(2, level)-1-i];
+            int n = pow(2, level);
+            for(int i = 0; i<n; ++i)
+                nodes[i]->val = values[n-1-i];
                 
         }
         rec(nextLevel, level + 1);
