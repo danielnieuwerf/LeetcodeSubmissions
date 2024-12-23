@@ -34,15 +34,16 @@ public:
     
     int getMinSwapsNeededForSorting(vector<int>& values) {
         int swaps = 0;
+        int n = values.size();
         vector<int> target = values;
         sort(target.begin(), target.end());
 
         unordered_map<int, int> pos;
-        for (int i = 0; i < values.size(); i++) {
+        for (int i = 0; i < n; ++i) {
             pos[values[i]] = i;
         }
 
-        for (int i = 0; i < values.size(); ++i) {
+        for (int i = 0; i < n; ++i) {
             if (values[i] != target[i]) {
                 ++swaps;
                 int curPos = pos[target[i]];
