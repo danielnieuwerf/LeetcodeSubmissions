@@ -8,6 +8,7 @@ public:
             size_t pos2 = s.find_last_of(c);
             if(pos2 == string::npos || pos2 == pos1) continue;
             unordered_set<char> us;
+            us.reserve(26);
             for(auto i = pos1 +1; i < pos2; ++i)
                 us.insert(s[i]);
             ans += us.size();
