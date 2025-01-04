@@ -7,10 +7,10 @@ public:
             if(pos1 == string::npos) continue;
             size_t pos2 = s.find_last_of(c);
             if(pos2 == string::npos || pos2 == pos1) continue;
-            unordered_map<char,int> mp;
+            unordered_set<char> us;
             for(auto i = pos1 +1; i < pos2; ++i)
-                ++mp[s[i]];
-            ans += mp.size();
+                us.insert(s[i]);
+            ans += us.size();
         }
         return ans;
     }
