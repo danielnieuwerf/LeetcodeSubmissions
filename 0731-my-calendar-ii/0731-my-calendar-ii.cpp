@@ -6,9 +6,9 @@ public:
     }
     
     bool book(int start, int end) {
+        int overlappingBookings = 0;
         ++bookings[start];
         --bookings[end];
-        int overlappingBookings = 0;
         for(auto& p: bookings) {
             overlappingBookings += p.second;
             if (overlappingBookings >= 3) {
