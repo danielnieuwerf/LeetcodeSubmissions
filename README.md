@@ -7,6 +7,7 @@
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
