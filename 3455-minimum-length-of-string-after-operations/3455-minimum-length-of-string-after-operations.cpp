@@ -8,7 +8,7 @@ public:
             }
         }
         int ans = 0;
-        for(auto p: mp)
+        for(auto& p: mp)
             ans += p.second;
         return ans;
     }
