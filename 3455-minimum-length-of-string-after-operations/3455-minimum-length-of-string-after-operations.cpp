@@ -1,15 +1,19 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        unordered_map<int,int> mp;
+        vector<int> frequencies(26,0);
         for(auto c: s) {
-            if(auto x = ++mp[c]; x>2) {
-                mp[c] = 1;
-            }
+            ++frequencies[c-'a'];
         }
         int ans = 0;
-        for(auto& p: mp)
-            ans += p.second;
+        for(auto freq: frequencies)
+        {
+            if(freq == 0) continue;
+            if(freq % 2 == 1)
+                ++ans;
+            else
+                ans += 2;
+        }
         return ans;
     }
 };
