@@ -6,6 +6,7 @@ public:
         vector<int> rows(n, 0);
         vector<int> cols(m, 0);
         unordered_map<int, pair<int,int>> mp{};
+        mp.reserve(m * n);
         for(int i = 0; i<n; ++i)
             for(int j = 0; j<m; ++j) {
                 mp[mat[i][j]] = make_pair(i,j);
