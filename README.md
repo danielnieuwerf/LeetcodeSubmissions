@@ -7,6 +7,7 @@
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 ## Math
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
