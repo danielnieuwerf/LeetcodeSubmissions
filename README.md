@@ -39,6 +39,7 @@
 | ------- |
 | [0228-summary-ranges](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -108,5 +110,10 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
