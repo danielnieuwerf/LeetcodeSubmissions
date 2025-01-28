@@ -18,7 +18,7 @@ public:
     }
 
     int dfs(vector<vector<int>>& grid, int i, int j) {
-        if(i<0 || i>= n || j<0 || j>=m || grid[i][j] == 0 || visited.contains(i << 16 | j)) return 0;
+        if(i<0 || i>= n || j<0 || j>=m || visited.contains(i << 16 | j) || grid[i][j] == 0) return 0;
         visited.insert(i<<16 | j);
         return grid[i][j] + dfs(grid, i, j+1) + dfs(grid, i, j-1) + dfs(grid, i-1, j) + dfs(grid, i+1, j);
     }    
