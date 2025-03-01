@@ -6,7 +6,6 @@ public:
                 nums[i] *= 2;
                 nums[i+1] = 0;
             }
-
         }
 
         int zeroes = 0;
