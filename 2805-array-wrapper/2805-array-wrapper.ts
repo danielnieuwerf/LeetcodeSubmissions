@@ -10,7 +10,7 @@ class ArrayWrapper {
     }
     
     toString(): string {
-        let result: string = "[";
+        let result = "[";
         let n = this._nums.length;
         for (let i = 0; i < n; i++) {
             result += this._nums[i].toString();
