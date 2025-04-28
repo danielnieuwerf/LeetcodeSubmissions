@@ -12,16 +12,15 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        auto x = 0;
-        if(root->left)
-            x = max(x, diameterOfBinaryTree(root->left));
-        if(root->right)
-            x = max(x, diameterOfBinaryTree(root->right));
+        if(!root)
+            return 0;
+        auto x = max(diameterOfBinaryTree(root->left), diameterOfBinaryTree(root->right));
         return max(maxDepth(root->left) + maxDepth(root->right), x);
     }
 
     int maxDepth(TreeNode* root){
-        if(!root) return 0;
+        if(!root) 
+            return 0;
         return 1 + max(maxDepth(root->left), maxDepth(root->right));
     }
 };
