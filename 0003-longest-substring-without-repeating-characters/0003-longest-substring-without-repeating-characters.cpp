@@ -8,7 +8,7 @@ public:
         int r = 0;
         int ans = 0;
         unordered_set <char> us;
-        while(r != n){
+        while(r < n){
             if(us.find(s[r]) != us.end()) {
                 us.erase(s[l]);
                 ++l;
