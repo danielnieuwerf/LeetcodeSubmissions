@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
@@ -184,12 +185,14 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Two Pointers
