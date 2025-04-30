@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
@@ -166,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 ## Counting Sort
 |  |
