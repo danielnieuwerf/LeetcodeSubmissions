@@ -14,6 +14,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
+| [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -108,6 +109,7 @@
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
+| [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 ## Simulation
 |  |
 | ------- |
@@ -238,4 +241,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
