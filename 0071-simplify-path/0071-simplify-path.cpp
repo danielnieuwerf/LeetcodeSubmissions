@@ -8,13 +8,11 @@ public:
             if(path[i] == '.') {
                 if(!curr.empty()) {
                     curr += ".";
-                }
-                else if(i < n-2 && path[i+1] == '.' && path[i+2] == '/') {
+                } else if(i < n-2 && path[i+1] == '.' && path[i+2] == '/') {
                     if(!p.empty())
                         p.pop_back();
                     i += 2;
-                }
-                else if(i < n-2 && path[i+1] == '.' && path[i+2] == '.') {
+                } else if(i < n-2 && path[i+1] == '.' && path[i+2] == '.') {
                     curr += "...";
                     i += 2;
                 } else if(i == n-2 && path[n-1] == '.') {
@@ -23,9 +21,8 @@ public:
                 } else if (i<n-1 && path[i+1] == '.') {
                     curr += "..";
                     i += 1;
-                } else {
-                    if(i < n -1 && path[i+1] != '/')
-                        curr += ".";
+                } else if(i < n -1 && path[i+1] != '/') {
+                    curr += ".";
                 }
             }
             else if(path[i] == '/') {
