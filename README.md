@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -249,4 +250,8 @@
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
