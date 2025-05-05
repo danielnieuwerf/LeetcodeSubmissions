@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
