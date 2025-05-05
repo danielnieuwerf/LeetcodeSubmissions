@@ -43,7 +43,7 @@ public:
         curr = ans;
         for(int i = 0; i<n; ++i) {
             int j = 0;
-            for(j = 0; j<n; ++j) {
+            for(j = 0; j<n; ++j) { // o(n^2) time can be improved using hash map.
                 if(list[j] == randoms[i]) {
                     break;
                 }
