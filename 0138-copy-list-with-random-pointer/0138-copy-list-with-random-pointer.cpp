@@ -20,16 +20,18 @@ public:
         auto curr = head;
         vector<Node*> list;
         vector<Node*> randoms;
+        int n = 0;
         while(curr) {
             randoms.push_back(curr->random);
             list.push_back(curr);
+            ++n;
             curr = curr->next;
         }
         if(list.empty())
             return nullptr;
 
-        int n = list.size();
         vector<Node*> newList;
+        newList.reserve(n);
         Node* ans = new Node(list[0]->val);
         newList.push_back(ans);
         curr = ans;
