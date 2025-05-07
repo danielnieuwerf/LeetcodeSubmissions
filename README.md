@@ -67,6 +67,7 @@
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
+| [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -217,6 +218,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
