@@ -68,6 +68,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
@@ -237,6 +238,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Enumeration
