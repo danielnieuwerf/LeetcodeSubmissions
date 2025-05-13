@@ -23,6 +23,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [1500-count-largest-group](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1500-count-largest-group) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -191,6 +195,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting Sort
 |  |
 | ------- |
