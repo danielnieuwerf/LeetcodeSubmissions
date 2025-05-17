@@ -63,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
@@ -121,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -239,6 +241,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
