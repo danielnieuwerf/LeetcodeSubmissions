@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +208,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -308,4 +310,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
