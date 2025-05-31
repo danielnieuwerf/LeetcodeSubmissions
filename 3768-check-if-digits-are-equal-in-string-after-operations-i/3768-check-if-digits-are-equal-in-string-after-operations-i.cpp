@@ -4,6 +4,7 @@ public:
         int n = s.size();
         while(n > 2) {
             string newStr;
+            newStr.reserve(n-1);
             for(int i = 0; i<n-1; ++i) {
                 newStr += to_string(((int)(s[i] - '0') + (int)(s[i+1] - '0'))%10);
             }
