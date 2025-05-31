@@ -119,6 +119,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
@@ -177,6 +178,7 @@
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String Matching
 |  |
 | ------- |
@@ -319,4 +321,8 @@
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
