@@ -246,6 +246,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -371,4 +372,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
