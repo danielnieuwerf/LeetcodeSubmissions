@@ -42,6 +42,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
