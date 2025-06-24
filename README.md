@@ -107,6 +107,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
