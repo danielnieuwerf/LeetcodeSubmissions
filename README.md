@@ -20,6 +20,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -104,6 +105,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -160,6 +162,7 @@
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Design
 |  |
@@ -332,6 +335,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Data Stream
 |  |
 | ------- |
