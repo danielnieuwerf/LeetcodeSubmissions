@@ -39,6 +39,7 @@
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0205-isomorphic-strings) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
