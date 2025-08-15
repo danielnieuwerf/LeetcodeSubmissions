@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
+| [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
@@ -136,6 +137,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -334,6 +336,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
 ## Rolling Hash
 |  |
 | ------- |
