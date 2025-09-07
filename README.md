@@ -100,6 +100,7 @@
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -142,6 +143,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
