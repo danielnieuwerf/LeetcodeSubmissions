@@ -31,6 +31,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+| [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
