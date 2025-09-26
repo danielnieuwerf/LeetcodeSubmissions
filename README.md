@@ -92,6 +92,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0830-largest-triangle-area](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0830-largest-triangle-area) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -175,6 +177,7 @@
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -204,6 +207,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0275-h-index-ii) |
+| [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
@@ -308,6 +312,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
