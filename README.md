@@ -135,6 +135,7 @@
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Math
