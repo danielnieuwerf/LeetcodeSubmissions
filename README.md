@@ -65,6 +65,7 @@
 | [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
