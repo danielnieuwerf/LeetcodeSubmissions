@@ -140,6 +140,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -240,6 +241,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
