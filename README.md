@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -84,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
