@@ -17,6 +17,7 @@
 | [1500-count-largest-group](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
@@ -43,6 +44,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -113,6 +115,7 @@
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
@@ -307,6 +310,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 ## Tree
 |  |
