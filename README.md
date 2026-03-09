@@ -448,4 +448,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
