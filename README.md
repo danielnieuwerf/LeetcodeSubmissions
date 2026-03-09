@@ -112,6 +112,7 @@
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -194,6 +195,7 @@
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
