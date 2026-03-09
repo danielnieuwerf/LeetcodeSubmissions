@@ -113,6 +113,7 @@
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
