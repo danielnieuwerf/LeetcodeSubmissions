@@ -30,6 +30,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -143,6 +144,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -237,6 +239,7 @@
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
@@ -266,6 +269,7 @@
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
