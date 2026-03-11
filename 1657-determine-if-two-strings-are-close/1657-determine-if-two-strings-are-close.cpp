@@ -4,34 +4,21 @@ public:
         if(word1.size() != word2.size()) {
             return false;
         }
-        // use maps as an exercise but for lowercase chars 26 length array is faster.
-        unordered_map<int,int> mp1;
-        unordered_map<int,int> mp2;
+        vector<int> v1(26,0);
+        vector<int> v2(26,0);
         for(auto c: word1) {
-            ++mp1[c];
+            ++v1[(int)(c-'a')];
         }
         for(auto c: word2) {
-            ++mp2[c];
+            ++v2[(int)(c-'a')];
         }
-        // if one contains a letter that the other doesn't return false
-        for(auto p: mp1) {
-            if(mp2.find(p.first) == mp2.end()) {
+        for(int i = 0; i<26; ++i) {
+            if((v1[i] == 0 && v2[i] != 0)||(v2[i] == 0 && v1[i] != 0)) {
                 return false;
             }
         }
-        for(auto p: mp2) {
-            if(mp1.find(p.first) == mp1.end()) {
-                return false;
-            }
-        }
-        vector<int> v1;
-        vector<int> v2;
-        for(auto p: mp1) {
-            v1.push_back(p.second);
-        }
-        for(auto p: mp2) {
-            v2.push_back(p.second);
-        }
+        v1.erase(remove(v1.begin(), v1.end(), 0), v1.end());
+        v2.erase(remove(v2.begin(), v2.end(), 0), v2.end());
         sort(v1.begin(), v1.end());
         sort(v2.begin(), v2.end());
         return v1 == v2;
