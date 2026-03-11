@@ -17,8 +17,8 @@ public:
                 return false;
             }
         }
-        v1.erase(remove(v1.begin(), v1.end(), 0), v1.end());
-        v2.erase(remove(v2.begin(), v2.end(), 0), v2.end());
+        // v1.erase(remove(v1.begin(), v1.end(), 0), v1.end());
+        // v2.erase(remove(v2.begin(), v2.end(), 0), v2.end());
         sort(v1.begin(), v1.end());
         sort(v2.begin(), v2.end());
         return v1 == v2;
