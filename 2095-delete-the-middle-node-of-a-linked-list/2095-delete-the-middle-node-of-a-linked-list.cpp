@@ -27,7 +27,9 @@ public:
                 curr = curr->next;
                 --n;
             } else {
-                curr->next = curr->next->next;
+                auto nodeToRemove = curr->next;
+                curr->next = nodeToRemove->next;
+                delete nodeToRemove;
                 break;
             }
         }
