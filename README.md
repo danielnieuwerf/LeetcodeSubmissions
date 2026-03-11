@@ -68,6 +68,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
