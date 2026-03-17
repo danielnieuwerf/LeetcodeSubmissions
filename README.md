@@ -129,6 +129,7 @@
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1929-concatenation-of-array) |
@@ -203,6 +204,7 @@
 | [0135-candy](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -217,6 +219,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -237,6 +240,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1876-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
