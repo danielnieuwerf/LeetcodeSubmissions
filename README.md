@@ -63,6 +63,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
+| [2942-find-words-containing-character](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2942-find-words-containing-character) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -158,6 +159,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2831-number-of-beautiful-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2831-number-of-beautiful-pairs) |
+| [2942-find-words-containing-character](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
