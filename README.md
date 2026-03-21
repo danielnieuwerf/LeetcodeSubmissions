@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
+| [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0205-isomorphic-strings) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
@@ -175,6 +176,7 @@
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0830-largest-triangle-area) |
