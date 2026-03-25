@@ -98,6 +98,7 @@
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -266,6 +268,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -415,6 +418,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2507-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
