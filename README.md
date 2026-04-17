@@ -43,6 +43,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -188,6 +189,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -220,6 +222,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
