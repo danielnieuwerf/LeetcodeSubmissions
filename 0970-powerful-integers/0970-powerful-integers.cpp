@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> powerfulIntegers(int x, int y, int bound) {
-        set<int> s;
+        unordered_set<int> s;
         for(int i=0;; ++i) {
             auto X = pow(x,i);
             for(int j = 0;; ++j) {
