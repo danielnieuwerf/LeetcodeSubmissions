@@ -114,6 +114,7 @@
 | [0118-pascals-triangle](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
@@ -199,6 +200,7 @@
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Queue
 |  |
