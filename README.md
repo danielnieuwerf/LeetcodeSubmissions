@@ -16,6 +16,7 @@
 | [0840-magic-squares-in-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0840-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
+| [0970-powerful-integers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
@@ -203,6 +204,7 @@
 | [0830-largest-triangle-area](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0840-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0970-powerful-integers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -426,6 +428,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0970-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2507-number-of-common-factors) |
