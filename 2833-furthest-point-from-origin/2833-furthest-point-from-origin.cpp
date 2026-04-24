@@ -17,6 +17,6 @@ public:
             }
             pos = newPos;
         }
-        return max(abs(*pos.begin()), abs(*pos.rbegin()));
+        return max(abs(*max_element(pos.begin(),pos.end())), abs(*min_element(pos.begin(),pos.end())));
     }
 };
