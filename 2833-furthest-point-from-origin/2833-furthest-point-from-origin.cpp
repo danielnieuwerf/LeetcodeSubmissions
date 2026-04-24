@@ -1,22 +1,13 @@
 class Solution {
 public:
     int furthestDistanceFromOrigin(string moves) {
-        unordered_set<int> pos = {0};
-        int n = moves.size();
-        for(int i = 0; i<n; ++i) {
-            unordered_set<int> newPos;
-            for(auto val: pos) {
-                if(moves[i] == 'L') {
-                    newPos.insert(val-1);
-                } else if(moves[i]=='R') {
-                    newPos.insert(val+1);
-                } else {
-                    newPos.insert(val+1);
-                    newPos.insert(val-1);
-                }
-            }
-            pos = newPos;
+        int left = 0, right = 0, blanks = 0;
+        for (char c: moves) {
+            if (c == 'L') left++;
+            else if (c == 'R') right++;
+            else blanks++;
         }
-        return max(abs(*max_element(pos.begin(),pos.end())), abs(*min_element(pos.begin(),pos.end())));
+
+        return abs(left - right) + blanks;
     }
 };
