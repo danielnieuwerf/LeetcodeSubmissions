@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0075-sort-colors) |
@@ -203,6 +204,7 @@
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
@@ -274,6 +276,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
