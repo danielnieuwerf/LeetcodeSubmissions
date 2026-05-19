@@ -37,6 +37,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
+| [2540-minimum-common-value](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2540-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2831-number-of-beautiful-pairs) |
@@ -175,6 +176,7 @@
 | [2465-shifting-letters-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2540-minimum-common-value) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -303,6 +305,7 @@
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2540-minimum-common-value) |
 ## Segment Tree
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
