@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0073-set-matrix-zeroes) |
@@ -298,6 +299,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0275-h-index-ii) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
