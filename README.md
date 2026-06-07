@@ -31,6 +31,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -169,6 +170,7 @@
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -421,6 +423,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
