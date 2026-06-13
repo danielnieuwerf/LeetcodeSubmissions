@@ -82,6 +82,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
