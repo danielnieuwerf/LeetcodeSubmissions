@@ -158,6 +158,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -287,6 +288,7 @@
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 ## Matrix
@@ -485,6 +487,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -510,6 +513,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 | [2161-stock-price-fluctuation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2161-stock-price-fluctuation) |
 ## Stack
 |  |
@@ -523,6 +527,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -575,4 +580,8 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
