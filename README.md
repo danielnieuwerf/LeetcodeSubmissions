@@ -142,6 +142,7 @@
 | [0840-magic-squares-in-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0840-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
+| [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1293-three-consecutive-odds) |
@@ -482,6 +483,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -514,6 +516,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
@@ -568,4 +571,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
