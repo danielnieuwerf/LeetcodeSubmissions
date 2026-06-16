@@ -8,7 +8,7 @@ public:
                     ans = ans.substr(0, ans.size()-1);
                 }
             } else if(c == '#') {
-                ans = ans + ans;
+                ans += ans;
             } else if(c == '%') {
                 reverse(ans.begin(), ans.end());
             } else {
