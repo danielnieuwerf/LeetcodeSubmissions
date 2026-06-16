@@ -78,6 +78,7 @@
 | [2942-find-words-containing-character](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2942-find-words-containing-character) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -348,6 +349,7 @@
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3838-weighted-word-mapping) |
 ## String Matching
