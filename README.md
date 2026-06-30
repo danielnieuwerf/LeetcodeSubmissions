@@ -20,6 +20,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -60,6 +61,7 @@
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1657-determine-if-two-strings-are-close](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1668-maximum-repeating-substring) |
@@ -473,6 +475,7 @@
 | [0239-sliding-window-maximum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1871-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
