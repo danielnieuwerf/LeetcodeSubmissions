@@ -13,6 +13,7 @@ public:
 
 
         vector<int> ans;
+        ans.reserve(a.size());
         for(int num: a)
             ans.push_back(mp[num]);
 
