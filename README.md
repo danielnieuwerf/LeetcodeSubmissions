@@ -20,6 +20,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +153,7 @@
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1293-three-consecutive-odds) |
+| [1331-rank-transform-of-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -278,6 +280,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
