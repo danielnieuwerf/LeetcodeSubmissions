@@ -487,6 +487,7 @@
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0970-powerful-integers) |
+| [1291-sequential-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2507-number-of-common-factors) |
