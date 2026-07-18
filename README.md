@@ -177,6 +177,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2048-build-array-from-permutation) |
@@ -245,6 +246,7 @@
 | [1500-count-largest-group](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
@@ -567,6 +569,7 @@
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2507-number-of-common-factors) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
