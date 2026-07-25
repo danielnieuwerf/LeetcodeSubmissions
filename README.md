@@ -258,6 +258,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -294,6 +295,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
 | ------- |
