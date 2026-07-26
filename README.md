@@ -142,6 +142,7 @@
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
@@ -236,6 +237,7 @@
 | [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0840-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -283,6 +285,7 @@
 | [0274-h-index](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
