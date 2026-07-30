@@ -81,6 +81,7 @@
 | [2833-furthest-point-from-origin](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-process-string-with-special-operations-i) |
@@ -258,6 +259,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2831-number-of-beautiful-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2831-number-of-beautiful-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -277,6 +279,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
