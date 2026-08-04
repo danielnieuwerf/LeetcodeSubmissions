@@ -47,6 +47,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2831-number-of-beautiful-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -224,6 +225,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
@@ -304,6 +306,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
