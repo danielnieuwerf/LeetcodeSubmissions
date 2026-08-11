@@ -11,7 +11,6 @@ public:
                 break;
             prefix += nums[i];
         }
-        int ans = -1;
         for(int num = prefix; num <= prefix + n; ++num) {
             if(!s.contains(num))
                 return num;
