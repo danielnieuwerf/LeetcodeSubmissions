@@ -48,6 +48,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -225,6 +226,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
