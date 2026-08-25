@@ -50,6 +50,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -231,6 +232,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
