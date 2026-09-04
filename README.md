@@ -124,6 +124,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
 | [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3903-smallest-stable-index-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 ## Array
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
