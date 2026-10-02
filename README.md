@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
@@ -433,6 +434,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -466,6 +468,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2107-find-unique-binary-string) |
 ## Tree
@@ -634,4 +637,8 @@
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
