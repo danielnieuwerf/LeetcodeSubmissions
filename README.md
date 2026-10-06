@@ -65,6 +65,7 @@
 | [0168-excel-sheet-column-title](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0205-isomorphic-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0952-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0135-candy](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -572,6 +574,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -641,4 +644,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
