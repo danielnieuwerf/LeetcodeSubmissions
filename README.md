@@ -163,6 +163,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1168-duplicate-zeros](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
@@ -342,6 +343,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0840-magic-squares-in-grid) |
+| [1254-number-of-closed-islands](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -429,6 +431,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1254-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -458,6 +461,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1254-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1396-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -633,6 +637,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Monotonic Stack
 |  |
