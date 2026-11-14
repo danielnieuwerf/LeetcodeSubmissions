@@ -126,6 +126,7 @@
 | [2485-find-the-pivot-integer](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2574-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 ## Array
@@ -231,6 +232,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3429-special-array-i) |
@@ -532,6 +534,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
