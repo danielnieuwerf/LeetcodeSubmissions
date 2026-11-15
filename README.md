@@ -116,6 +116,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0732-my-calendar-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1732-find-the-highest-altitude](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1732-find-the-highest-altitude) |
@@ -180,6 +181,7 @@
 | [1470-shuffle-the-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1656-count-good-triplets](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1670-design-front-middle-back-queue](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1670-design-front-middle-back-queue) |
@@ -270,6 +272,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1500-count-largest-group) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1543-simplified-fractions](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1543-simplified-fractions) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -453,6 +456,7 @@
 | [0118-pascals-triangle](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/0542-01-matrix) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/1871-jump-game-vii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
