@@ -287,6 +287,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3360-stone-removal-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -403,6 +404,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3311-ant-on-the-boundary) |
+| [3360-stone-removal-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/danielnieuwerf/LeetcodeSubmissions/tree/master/3511-find-the-winning-player-in-coin-game) |
